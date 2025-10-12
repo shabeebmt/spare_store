@@ -28,7 +28,6 @@ DEBUG = false
 ALLOWED_HOSTS = []
 
 
-# Application definition
 
 INSTALLED_APPS = [
     'accounts',
