@@ -1,4 +1,3 @@
 
-
 admin.site.register(product)
 
